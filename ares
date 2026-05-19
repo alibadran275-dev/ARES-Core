@@ -1,0 +1,7 @@
+#!/bin/bash
+# ARES Core Bootloader v1.0.0
+echo "Initializing ARES Intelligence Suite..."
+sleep 1
+# تشغيل المايسترو
+python core.py
+
